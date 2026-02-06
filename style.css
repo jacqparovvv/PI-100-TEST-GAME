@@ -23,7 +23,7 @@ h2 {
 }
 
 #map {
-  height: 800px;
+  height: 350px;
   width: 100%
 }
 
@@ -39,3 +39,4 @@ button {
   margin-top: 10px;
   margin: 5px;
 }
+
